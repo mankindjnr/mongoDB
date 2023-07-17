@@ -1,0 +1,1 @@
+mongosh "mongodb+srv://cluster0.aiekeau.mongodb.net/" --apiVersion 1 --username njoro
